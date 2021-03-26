@@ -1,0 +1,20 @@
+C:\Users\Sean\Documents\CEN414\tempconv3\bin\Debug\tempconv3.exe.config
+C:\Users\Sean\Documents\CEN414\tempconv3\bin\Debug\tempconv3.exe
+C:\Users\Sean\Documents\CEN414\tempconv3\bin\Debug\tempconv3.pdb
+C:\Users\Sean\Documents\CEN414\tempconv3\obj\Debug\tempconv3.csprojAssemblyReference.cache
+C:\Users\Sean\Documents\CEN414\tempconv3\obj\Debug\tempconv3.Form1.resources
+C:\Users\Sean\Documents\CEN414\tempconv3\obj\Debug\tempconv3.Properties.Resources.resources
+C:\Users\Sean\Documents\CEN414\tempconv3\obj\Debug\tempconv3.csproj.GenerateResource.cache
+C:\Users\Sean\Documents\CEN414\tempconv3\obj\Debug\tempconv3.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\CEN414\tempconv3\obj\Debug\tempconv3.exe
+C:\Users\Sean\Documents\CEN414\tempconv3\obj\Debug\tempconv3.pdb
+C:\Users\Sean\Documents\CEN414\ASSIGNMENT 1 (BMI, LB to KG, etc)\tempconv3\bin\Debug\tempconv3.exe.config
+C:\Users\Sean\Documents\CEN414\ASSIGNMENT 1 (BMI, LB to KG, etc)\tempconv3\bin\Debug\tempconv3.exe
+C:\Users\Sean\Documents\CEN414\ASSIGNMENT 1 (BMI, LB to KG, etc)\tempconv3\bin\Debug\tempconv3.pdb
+C:\Users\Sean\Documents\CEN414\ASSIGNMENT 1 (BMI, LB to KG, etc)\tempconv3\obj\Debug\tempconv3.csprojAssemblyReference.cache
+C:\Users\Sean\Documents\CEN414\ASSIGNMENT 1 (BMI, LB to KG, etc)\tempconv3\obj\Debug\tempconv3.Form1.resources
+C:\Users\Sean\Documents\CEN414\ASSIGNMENT 1 (BMI, LB to KG, etc)\tempconv3\obj\Debug\tempconv3.Properties.Resources.resources
+C:\Users\Sean\Documents\CEN414\ASSIGNMENT 1 (BMI, LB to KG, etc)\tempconv3\obj\Debug\tempconv3.csproj.GenerateResource.cache
+C:\Users\Sean\Documents\CEN414\ASSIGNMENT 1 (BMI, LB to KG, etc)\tempconv3\obj\Debug\tempconv3.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\CEN414\ASSIGNMENT 1 (BMI, LB to KG, etc)\tempconv3\obj\Debug\tempconv3.exe
+C:\Users\Sean\Documents\CEN414\ASSIGNMENT 1 (BMI, LB to KG, etc)\tempconv3\obj\Debug\tempconv3.pdb

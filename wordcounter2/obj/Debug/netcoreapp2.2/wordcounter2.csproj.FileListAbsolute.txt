@@ -1,0 +1,11 @@
+C:\Users\Sean\Documents\CEN414\wordcounter2\bin\Debug\netcoreapp2.2\wordcounter2.deps.json
+C:\Users\Sean\Documents\CEN414\wordcounter2\bin\Debug\netcoreapp2.2\wordcounter2.runtimeconfig.json
+C:\Users\Sean\Documents\CEN414\wordcounter2\bin\Debug\netcoreapp2.2\wordcounter2.runtimeconfig.dev.json
+C:\Users\Sean\Documents\CEN414\wordcounter2\bin\Debug\netcoreapp2.2\wordcounter2.dll
+C:\Users\Sean\Documents\CEN414\wordcounter2\bin\Debug\netcoreapp2.2\wordcounter2.pdb
+C:\Users\Sean\Documents\CEN414\wordcounter2\obj\Debug\netcoreapp2.2\wordcounter2.csprojAssemblyReference.cache
+C:\Users\Sean\Documents\CEN414\wordcounter2\obj\Debug\netcoreapp2.2\wordcounter2.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\CEN414\wordcounter2\obj\Debug\netcoreapp2.2\wordcounter2.AssemblyInfoInputs.cache
+C:\Users\Sean\Documents\CEN414\wordcounter2\obj\Debug\netcoreapp2.2\wordcounter2.AssemblyInfo.cs
+C:\Users\Sean\Documents\CEN414\wordcounter2\obj\Debug\netcoreapp2.2\wordcounter2.dll
+C:\Users\Sean\Documents\CEN414\wordcounter2\obj\Debug\netcoreapp2.2\wordcounter2.pdb
