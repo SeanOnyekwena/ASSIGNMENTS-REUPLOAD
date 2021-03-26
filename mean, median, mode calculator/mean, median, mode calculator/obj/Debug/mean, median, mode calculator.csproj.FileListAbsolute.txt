@@ -1,0 +1,10 @@
+C:\Users\Sean\Documents\CEN414\mean, median, mode calculator\mean, median, mode calculator\bin\Debug\mean, median, mode calculator.exe.config
+C:\Users\Sean\Documents\CEN414\mean, median, mode calculator\mean, median, mode calculator\bin\Debug\mean, median, mode calculator.exe
+C:\Users\Sean\Documents\CEN414\mean, median, mode calculator\mean, median, mode calculator\bin\Debug\mean, median, mode calculator.pdb
+C:\Users\Sean\Documents\CEN414\mean, median, mode calculator\mean, median, mode calculator\obj\Debug\mean, median, mode calculator.csprojAssemblyReference.cache
+C:\Users\Sean\Documents\CEN414\mean, median, mode calculator\mean, median, mode calculator\obj\Debug\mean__median__mode_calculator.Statistics.resources
+C:\Users\Sean\Documents\CEN414\mean, median, mode calculator\mean, median, mode calculator\obj\Debug\mean__median__mode_calculator.Properties.Resources.resources
+C:\Users\Sean\Documents\CEN414\mean, median, mode calculator\mean, median, mode calculator\obj\Debug\mean, median, mode calculator.csproj.GenerateResource.cache
+C:\Users\Sean\Documents\CEN414\mean, median, mode calculator\mean, median, mode calculator\obj\Debug\mean, median, mode calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\CEN414\mean, median, mode calculator\mean, median, mode calculator\obj\Debug\mean, median, mode calculator.exe
+C:\Users\Sean\Documents\CEN414\mean, median, mode calculator\mean, median, mode calculator\obj\Debug\mean, median, mode calculator.pdb

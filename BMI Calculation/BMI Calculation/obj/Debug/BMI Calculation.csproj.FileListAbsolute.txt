@@ -1,0 +1,10 @@
+C:\Users\Ayomikun14\source\repos\BMI Calculation\BMI Calculation\bin\Debug\BMI Calculation.exe.config
+C:\Users\Ayomikun14\source\repos\BMI Calculation\BMI Calculation\bin\Debug\BMI Calculation.exe
+C:\Users\Ayomikun14\source\repos\BMI Calculation\BMI Calculation\bin\Debug\BMI Calculation.pdb
+C:\Users\Ayomikun14\source\repos\BMI Calculation\BMI Calculation\obj\Debug\BMI Calculation.csprojAssemblyReference.cache
+C:\Users\Ayomikun14\source\repos\BMI Calculation\BMI Calculation\obj\Debug\BMI_Calculation.Form1.resources
+C:\Users\Ayomikun14\source\repos\BMI Calculation\BMI Calculation\obj\Debug\BMI_Calculation.Properties.Resources.resources
+C:\Users\Ayomikun14\source\repos\BMI Calculation\BMI Calculation\obj\Debug\BMI Calculation.csproj.GenerateResource.cache
+C:\Users\Ayomikun14\source\repos\BMI Calculation\BMI Calculation\obj\Debug\BMI Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Ayomikun14\source\repos\BMI Calculation\BMI Calculation\obj\Debug\BMI Calculation.exe
+C:\Users\Ayomikun14\source\repos\BMI Calculation\BMI Calculation\obj\Debug\BMI Calculation.pdb
