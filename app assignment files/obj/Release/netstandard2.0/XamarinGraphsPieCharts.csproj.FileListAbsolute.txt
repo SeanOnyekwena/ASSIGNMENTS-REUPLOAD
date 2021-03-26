@@ -1,0 +1,13 @@
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\bin\Release\netstandard2.0\XamarinGraphsPieCharts.deps.json
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\bin\Release\netstandard2.0\XamarinGraphsPieCharts.dll
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\bin\Release\netstandard2.0\XamarinGraphsPieCharts.pdb
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\obj\Release\netstandard2.0\XamarinGraphsPieCharts.csprojAssemblyReference.cache
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\obj\Release\netstandard2.0\BarChart.xaml.g.cs
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\obj\Release\netstandard2.0\XamarinGraphsPieCharts.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\obj\Release\netstandard2.0\XamarinGraphsPieCharts.AssemblyInfoInputs.cache
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\obj\Release\netstandard2.0\XamarinGraphsPieCharts.AssemblyInfo.cs
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\obj\Release\netstandard2.0\XamarinGraphsPieCharts.dll
+C:\Users\Sean\Documents\CEN414\APP STUFF\test3\XamarinGraphsPieCharts\XamarinGraphsPieCharts\obj\Release\netstandard2.0\XamarinGraphsPieCharts.pdb
